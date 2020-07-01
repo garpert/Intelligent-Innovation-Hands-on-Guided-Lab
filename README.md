@@ -33,4 +33,4 @@ Used the hand On lab [material](../../releases/tag/1.0.0) and [solutions](../../
 [Post questions on SAP Community](https://answers.sap.com/questions/ask.html) and specify the primary tag as SAP Intelligent Innovation Hands on Guided Lab.
 
 ## License
-Copyright (c) 2020 SAP SE or an SAP affiliate company. All rights reserved. This file is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](License).
+Copyright (c) 2020 SAP SE or an SAP affiliate company. All rights reserved. This file is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSE).
